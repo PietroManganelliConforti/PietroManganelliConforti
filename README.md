@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Write me on LinkedIn! or my institutional e-mail.
 
-# Extra
