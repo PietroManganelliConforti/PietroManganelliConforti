@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 # About me
 
-- 🌱 I am an AI enthusiast && Ph.D. student in Engineering in Computer Science @ La Sapienza University of Rome. Graduated in Engineering in Computer Science and AI&Robotics I'm passionate about the AI field, from its practical implementations to the philosophical aspects, with a focus on deep learning, computer vision, and explainable AI applications. 
+- 🌱 I am an AI enthusiast && Ph.D. student in Engineering in Computer Science @ La Sapienza University of Rome. Graduated in Engineering in Computer Science and AI&Robotics, I'm passionate about the AI field, from its practical implementations to the philosophical aspects, with a focus on deep learning, computer vision, and explainable AI applications. 
 
 - 🔭 Currently, I'm a researcher enrolled in a Ph.D. program in Rome currently working within the AlcorLab research group, to further explore the above subjects.
 
-- 💬 "What a time to be alive" - Great quote from a famous AI YouTube channel
+- 💬 "What a time to be alive" - Great quote from a famous AI YouTube channel.
 
 - 📫 How to reach me: Write me on LinkedIn! Or to my institutional e-mail.
 
