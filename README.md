@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 # About me
 
-- 🌱 I am an AI enthusiast && Ph.D. student in Engineering in Computer Science @ La Sapienza University of Rome. Graduated in Engineering in Computer Science and AI&Robotics, I'm passionate about the AI field, from its practical implementations to the philosophical aspects, with a focus on deep learning, computer vision, and explainable AI applications. 
+- 🌱 I am an AI researcher and a Ph.D. student in Engineering in Computer Science at La Sapienza University of Rome. With a background in Computer Science Engineering and AI & Robotics, I am deeply passionate about artificial intelligence, from its practical applications to its philosophical implications. My research focuses on deep learning, computer vision, explainable AI, and other minor subfields.
 
-- 🔭 Currently, I'm a researcher enrolled in a Ph.D. program in Rome currently working within the AlcorLab research group, to further explore the above subjects.
+- 🔭 Currently, I'm a researcher enrolled in a Ph.D. program in Rome and working within the AlcorLab research group, to explore the above subjects further.
 
 - 💬 "What a time to be alive" - Great quote from a famous AI YouTube channel.
 
