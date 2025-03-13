@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # About me
 
-- 🌱 I am an AI researcher and a Ph.D. student in Engineering in Computer Science at La Sapienza University of Rome. With a background in Computer Science Engineering and AI & Robotics, I am deeply passionate about artificial intelligence, from its practical applications to its philosophical implications. My research focuses on deep learning, computer vision, explainable AI, and other minor subfields.
+- 🌱 I am an AI researcher and a Ph.D. student in Engineering in Computer Science at La Sapienza University of Rome. With a background in Computer Science Engineering and AI & Robotics, I am deeply passionate about artificial intelligence, from its practical applications to its philosophical implications. My research focuses on deep learning, explainable AI, cybersecurity, and computer vision, along with other related subfields.
 
 - 🔭 Currently, I'm a researcher enrolled in a Ph.D. program in Rome and working within the AlcorLab research group, to explore the above subjects further.
 
